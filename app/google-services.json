@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716266218001",
+    "firebase_url": "https://messap-f6cbd-default-rtdb.firebaseio.com",
+    "project_id": "messap-f6cbd",
+    "storage_bucket": "messap-f6cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716266218001:android:4883db5076b7213de507b0",
+        "android_client_info": {
+          "package_name": "com.example.messap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716266218001-llgesbk2fbm6koit90tf2h6jusfnkjdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messap",
+            "certificate_hash": "a6ad5736d546cf5ca63743049e48cd4e1ab11486"
+          }
+        },
+        {
+          "client_id": "716266218001-lsnaushv9c32qi8snf5v17b3tfo3civf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcZZlpjQXKjYDarY9QDNWsz_kaK39kAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716266218001-lsnaushv9c32qi8snf5v17b3tfo3civf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
